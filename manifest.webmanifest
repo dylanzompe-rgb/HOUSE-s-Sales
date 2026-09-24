@@ -1,6 +1,6 @@
 {
-  "name": "Mes Ventes",
-  "short_name": "Mes Ventes",
+  "name": "Dylan's HOUSE Sales",
+  "short_name": "HOUSE Sales",
   "description": "Suivi de ventes : produits, stock, bénéfices",
   "start_url": "./",
   "scope": "./",
